@@ -37,5 +37,5 @@ python finder-1-0.py
 *   [A] => Finalizar busca.
 
 # GarticFinder no Google Colab:
-> Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColab).
+> Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColaab).
 
