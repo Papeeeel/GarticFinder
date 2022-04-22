@@ -36,3 +36,6 @@ python finder-1-0.py
 *   [P] => Buscar somente em salas padrão.
 *   [A] => Finalizar busca.
 
+# GarticFinder no Google Colab:
+> Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColab).
+
