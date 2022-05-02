@@ -1,6 +1,9 @@
 # GarticFinder
 
-## Instruções
+## Use o GarticFinder no Google Colab:
+> Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColaab).
+
+### Instruções
 
 
 > Encontrando Usuários não registrados
@@ -13,7 +16,6 @@
 *   [P] => Buscar somente em salas padrão.
 *   [A] => Finalizar busca.
 
-## Use o GarticFinder no Google Colab:
-> Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColaab).
+
 
 
