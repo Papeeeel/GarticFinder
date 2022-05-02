@@ -3,9 +3,9 @@
 ## Use o GarticFinder no Google Colab:
 > Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColaab).
 
+> Para rodar na sua máquina, confira o arquivo *learnbibliotecas.md*
+> 
 ### Instruções
-
-
 > Encontrando Usuários não registrados
 
 *   Para encontrar um usuário não registrado, coloque um "~" antes do nickname.
