@@ -12,15 +12,19 @@ pip install beautifulsoup4
 ~~~python
 pip install urllib3
 ~~~
-### Json
-~~~python
-"Já vem instalada por padrão."
-~~~
 
 ### Termcolor
 ~~~python
 pip install termcolor
 ~~~
+
+## Execute o arquivo:
+#### Para executar o arquivo *garticfinderbeta.py* - dentro da pasta com o arquivo - digite o seguinte comando:
+~~~python
+python garticfinderbeta.py
+~~~
+##### *se não funcionar, tente python3 ao invés de python*
+
 
 
 
