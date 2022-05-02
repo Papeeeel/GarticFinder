@@ -1,0 +1,8 @@
+O código utiliza as seguintes bibliotecas:
+-BeautifulSoup
+-Urllib
+-json
+-termcolor
+
+Para instalar cada uma delas, digite o seguinte comando no seu terminal:
+pip install <nome da biblioteca> ou pip3 install <nome da biblioteca>
