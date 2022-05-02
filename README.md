@@ -1,29 +1,6 @@
 # GarticFinder
 
-Bibliotecas utilizadas:
-* Urllib3
-* Json
-* Termcolor
-* Beautifulsoup4
-
-Para instalar as bibliotecas, você pode instalar o dependencias.txt da seguinte maneira:
-~~~python
-pip install -r dependencias.txt
-~~~
-
-Ou manualmente da seguinte maneira:
-
-~~~python
-pip install "nome da biblioteca"
-~~~
-
-# Rodando o código:
-
-~~~python
-python finder-1-0.py
-~~~
-
-# Instruções
+## Instruções
 
 
 > Encontrando Usuários não registrados
@@ -36,6 +13,7 @@ python finder-1-0.py
 *   [P] => Buscar somente em salas padrão.
 *   [A] => Finalizar busca.
 
-# GarticFinder no Google Colab:
+## Use o GarticFinder no Google Colab:
 > Para usar o GarticFinder no google colab [clique aqui](http://tiny.cc/GarticFinderColaab).
+
 
